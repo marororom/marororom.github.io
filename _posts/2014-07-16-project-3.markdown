@@ -1,5 +1,5 @@
 ---
-title: Embodied Interaction
+title: Maps & Embodied Interaction
 subtitle: Website Design
 layout: default
 modal-id: 3
