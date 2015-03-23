@@ -744,11 +744,11 @@ footer {
 }
 
 footer span.copyright {
+    color: #ffffff;
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
-    color: #ffffff;
 }
 
 footer ul.quicklinks {
