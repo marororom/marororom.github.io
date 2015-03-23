@@ -123,11 +123,6 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
-.btn-timeline {
-    color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
-}
-
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.color.primary }};
@@ -510,6 +505,20 @@ section h3.section-subheading {
     text-align: center;
     color: #fff;
     background-color: #f7f7f7;
+}
+
+.timeline>li .timeline-image-cv {
+    z-index: 100;
+    position: absolute;
+    left: 0;
+    width: 80px;
+    height: 80px;
+    margin-left: 0;
+    border: 7px solid #f1f1f1;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #{{ site.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
