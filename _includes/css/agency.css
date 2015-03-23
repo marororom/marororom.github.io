@@ -847,21 +847,23 @@ ul.social-buttons li a:active {
 }
 
 ::-moz-selection {
+    color: #ffffff;
     text-shadow: none;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 ::selection {
+    color: #ffffff;
     text-shadow: none;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 img::selection {
-    background: .9 .9;
+    background: 0 0;
 }
 
 img::-moz-selection {
-    background: .9 .9;
+    background: 0 0;
 }
 
 body {

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd0d5c0d-1594-43ba-809c-ee8ae794fa8a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
     </list>
     <ignored path="marororom.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77522933" vertical-offset="14113" max-vertical-offset="14875">
-              <caret line="860" column="1" selection-start-line="860" selection-start-column="1" selection-end-line="860" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.61009175" vertical-offset="14136" max-vertical-offset="14909">
+              <caret line="855" column="19" selection-start-line="855" selection-start-column="19" selection-end-line="855" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -477,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77522933" vertical-offset="14113" max-vertical-offset="14875">
-          <caret line="860" column="1" selection-start-line="860" selection-start-column="1" selection-end-line="860" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.61009175" vertical-offset="14136" max-vertical-offset="14909">
+          <caret line="855" column="19" selection-start-line="855" selection-start-column="19" selection-end-line="855" selection-end-column="19" />
           <folding />
         </state>
       </provider>
