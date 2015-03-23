@@ -178,6 +178,9 @@ fieldset[disabled] .btn-xl.active {
 .cv-link {
     color: #ffffff;
 }
+.cv-link:hover {
+    color: #2D004E;
+}
 
 .navbar-default {
     border-color: transparent;

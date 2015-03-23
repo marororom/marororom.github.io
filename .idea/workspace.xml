@@ -47,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.678572" vertical-offset="8214" max-vertical-offset="15045">
-              <caret line="509" column="14" selection-start-line="509" selection-start-column="14" selection-end-line="509" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.2293578" vertical-offset="2927" max-vertical-offset="15096">
+              <caret line="181" column="12" selection-start-line="181" selection-start-column="12" selection-end-line="181" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50762194" vertical-offset="568" max-vertical-offset="1326">
-              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            <state vertical-scroll-proportion="-15.423077" vertical-offset="653" max-vertical-offset="1326">
+              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
-        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
+        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
       </list>
     </option>
   </component>
@@ -590,18 +590,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.678572" vertical-offset="8214" max-vertical-offset="15045">
-          <caret line="509" column="14" selection-start-line="509" selection-start-column="14" selection-end-line="509" selection-end-column="31" />
+        <state vertical-scroll-proportion="-15.423077" vertical-offset="653" max-vertical-offset="1326">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50762194" vertical-offset="568" max-vertical-offset="1326">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.2293578" vertical-offset="2927" max-vertical-offset="15096">
+          <caret line="181" column="12" selection-start-line="181" selection-start-column="12" selection-end-line="181" selection-end-column="12" />
           <folding />
         </state>
       </provider>
