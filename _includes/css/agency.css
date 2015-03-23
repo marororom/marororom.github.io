@@ -125,6 +125,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-timeline {
     color: #{{ site.color.primary }};
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-xl {
