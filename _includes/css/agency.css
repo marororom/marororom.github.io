@@ -57,6 +57,11 @@ h6 {
     font-weight: 700;
 }
 
+h2,
+h4 {
+    color: #2D004E;
+}
+
 .img-centered {
     margin: 0 auto;
 }
