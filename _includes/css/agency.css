@@ -186,6 +186,10 @@ fieldset[disabled] .btn-xl.active {
     color: #2D004E;
 }
 
+.copyright-white {
+    color: #ffffff;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
@@ -744,7 +748,6 @@ footer {
 }
 
 footer span.copyright {
-    color: #ffffff;
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
