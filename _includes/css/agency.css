@@ -74,6 +74,10 @@ h4 {
     background-color: #222;
 }
 
+.bg-dark-violet {
+    background-color: #2D004E;
+}
+
 .btn-primary {
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
@@ -744,6 +748,7 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    color: #ffffff;
 }
 
 footer ul.quicklinks {
