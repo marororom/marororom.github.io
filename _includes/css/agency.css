@@ -124,7 +124,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-timeline {
-    color: #ffffff;
+    color: #{{ site.color.secondary }};
 }
 
 .btn-xl {
@@ -177,6 +177,10 @@ fieldset[disabled] .btn-xl.active {
 .btn-xl .badge {
     color: #{{ site.color.primary }};
     background-color: #fff;
+}
+
+.cv-link {
+    color: #ffffff;
 }
 
 .navbar-default {
