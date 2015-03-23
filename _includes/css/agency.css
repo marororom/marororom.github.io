@@ -634,7 +634,7 @@ section h3.section-subheading {
     }
 }
 
-.team-member {
+/*.team-member {
     margin-bottom: 50px;
     text-align: center;
 }
@@ -656,7 +656,7 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
-}
+}*/
 
 section#contact {
     background-color: #222;
@@ -848,20 +848,20 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 ::selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 img::selection {
-    background: 0 0;
+    background: .9 .9;
 }
 
 img::-moz-selection {
-    background: 0 0;
+    background: .9 .9;
 }
 
 body {
