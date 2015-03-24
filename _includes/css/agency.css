@@ -190,6 +190,14 @@ fieldset[disabled] .btn-xl.active {
     color: #ffffff;
 }
 
+.caption {
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    margin-top: -25px;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
