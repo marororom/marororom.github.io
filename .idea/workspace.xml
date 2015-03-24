@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd0d5c0d-1594-43ba-809c-ee8ae794fa8a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal1.html" afterPath="$PROJECT_DIR$/_includes/modal1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal2.html" afterPath="$PROJECT_DIR$/_includes/modal2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal3.html" afterPath="$PROJECT_DIR$/_includes/modal3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal4.html" afterPath="$PROJECT_DIR$/_includes/modal4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal5.html" afterPath="$PROJECT_DIR$/_includes/modal5.html" />
     </list>
@@ -43,8 +45,8 @@
       <file leaf-file-name="modal3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.692308" vertical-offset="58" max-vertical-offset="748">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state vertical-scroll-proportion="-5.6153846" vertical-offset="58" max-vertical-offset="748">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -73,8 +75,8 @@
       <file leaf-file-name="modal1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.923077" vertical-offset="1486" max-vertical-offset="2142">
-              <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="114" selection-end-column="30" />
+            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="2142">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -83,8 +85,8 @@
       <file leaf-file-name="modal2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.346153" vertical-offset="32" max-vertical-offset="748">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="748">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -93,8 +95,8 @@
       <file leaf-file-name="modal4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.961538" vertical-offset="85" max-vertical-offset="1088">
-              <caret line="34" column="113" selection-start-line="34" selection-start-column="113" selection-end-line="34" selection-end-column="113" />
+            <state vertical-scroll-proportion="-4.576923" vertical-offset="85" max-vertical-offset="1088">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -113,8 +115,8 @@
       <file leaf-file-name="modal5.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4817073" vertical-offset="58" max-vertical-offset="884">
-              <caret line="22" column="112" selection-start-line="22" selection-start-column="112" selection-end-line="22" selection-end-column="112" />
+            <state vertical-scroll-proportion="0.3109756" vertical-offset="0" max-vertical-offset="884">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -157,10 +159,10 @@
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
+        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/modal1.html" />
         <option value="$PROJECT_DIR$/_includes/modal2.html" />
         <option value="$PROJECT_DIR$/_includes/modal3.html" />
-        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/modal4.html" />
         <option value="$PROJECT_DIR$/_includes/modal5.html" />
       </list>
@@ -773,30 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.923077" vertical-offset="1486" max-vertical-offset="2142">
-          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="114" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.346153" vertical-offset="32" max-vertical-offset="748">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/modal3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.692308" vertical-offset="58" max-vertical-offset="748">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="15419">
@@ -805,18 +783,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="2142">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="748">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/modal3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6153846" vertical-offset="58" max-vertical-offset="748">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.961538" vertical-offset="85" max-vertical-offset="1088">
-          <caret line="34" column="113" selection-start-line="34" selection-start-column="113" selection-end-line="34" selection-end-column="113" />
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="85" max-vertical-offset="1088">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4817073" vertical-offset="58" max-vertical-offset="884">
-          <caret line="22" column="112" selection-start-line="22" selection-start-column="112" selection-end-line="22" selection-end-column="112" />
+        <state vertical-scroll-proportion="0.3109756" vertical-offset="0" max-vertical-offset="884">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding />
         </state>
       </provider>
