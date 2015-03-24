@@ -71,8 +71,8 @@
       <file leaf-file-name="modal1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35213414" vertical-offset="7" max-vertical-offset="1224">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.35213414" vertical-offset="330" max-vertical-offset="1309">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -806,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35213414" vertical-offset="7" max-vertical-offset="1224">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.35213414" vertical-offset="330" max-vertical-offset="1309">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding />
         </state>
       </provider>
