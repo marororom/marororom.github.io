@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd0d5c0d-1594-43ba-809c-ee8ae794fa8a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/tag_axure.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal2.html" afterPath="$PROJECT_DIR$/_includes/modal2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal3.html" afterPath="$PROJECT_DIR$/_includes/modal3.html" />
     </list>
     <ignored path="marororom.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +62,8 @@
       <file leaf-file-name="modal2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6112805" vertical-offset="806" max-vertical-offset="1717">
-              <caret line="71" column="160" selection-start-line="71" selection-start-column="160" selection-end-line="71" selection-end-column="160" />
+            <state vertical-scroll-proportion="0.33280253" vertical-offset="811" max-vertical-offset="1717">
+              <caret line="60" column="60" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -815,8 +815,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6112805" vertical-offset="806" max-vertical-offset="1717">
-          <caret line="71" column="160" selection-start-line="71" selection-start-column="160" selection-end-line="71" selection-end-column="160" />
+        <state vertical-scroll-proportion="0.33280253" vertical-offset="811" max-vertical-offset="1717">
+          <caret line="60" column="60" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
           <folding />
         </state>
       </provider>
