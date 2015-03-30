@@ -4,9 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-html, body {
+html{
     max-width: 100%;
     overflow-x: hidden;
+}
+
+body {
+    width: 100%;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
