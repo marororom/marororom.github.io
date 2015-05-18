@@ -1610,7 +1610,7 @@ span.roll {
 
 .scroll-wrapper {
 	-webkit-overflow-scrolling:touch; 
- 	overflow:auto;
+ 	overflow-y:scroll;
  }
 
 .modal-container{	
@@ -1629,6 +1629,7 @@ span.roll {
 	text-align: left;
 	line-height: 1.25em;
 	font-size: 0.95em;
+	width: 99%;
 }
 
 .modal-text-center{
