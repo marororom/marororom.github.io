@@ -757,7 +757,7 @@
 
 								var h=window.innerHeight || document.documentElement.clientHeight ||document.body.clientHeight;
 								
-								if(w <= 1024){
+								if(w <= 1080){
 									x.width = w * 0.8;
 								}else{
 									x.width = w * 0.65;	
