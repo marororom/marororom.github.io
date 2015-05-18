@@ -29,6 +29,31 @@
             nav = $('nav'),
             nav_height = nav.outerHeight() * 5;
 
+			$(function() {
+			// OPACITY OF BUTTON SET TO 0%
+			$(".roll").css("opacity","0");
+			 
+			// ON MOUSE OVER
+			$(".roll").hover(function () {
+			 
+			// SET OPACITY TO 70%
+			$(this).stop().animate({
+			opacity: .7
+			}, "fast");
+			},
+			             
+						  
+			 
+			// ON MOUSE OUT
+			function () {
+			 
+			// SET OPACITY BACK TO 50%
+			$(this).stop().animate({
+			opacity: 0
+			}, "slow");
+			});
+			});
+
             $window.on('scroll', function () {
                 var cur_pos = $(this).scrollTop();
 
@@ -97,12 +122,12 @@
 		// Gallery.
 			$('.gallery').poptrox({
 				baseZIndex: 10001,
-				useBodyOverflow: false,
-				usePopupEasyClose: false,
+				useBodyOverflow: true,
+				usePopupEasyClose: true,
 				overlayColor: '#1f2328',
 				overlayOpacity: 0.65,
-				usePopupDefaultStyling: false,
-				usePopupCaption: true,
+				usePopupDefaultStyling: true,
+				usePopupCaption: false,
 				popupLoaderText: '',
 				windowMargin: (skel.isActive('mobile') ? 5 : 50),
 				usePopupNav: true
@@ -263,7 +288,15 @@
 				.load(function() {
 					$window.trigger('resize');
 				});
-
 	});
-
+	$('div.modal').on('show.bs.modal', function() {
+		var modal = this;
+		var hash = modal.id;
+		window.location.hash = hash;
+		window.onhashchange = function() {
+			if (!location.hash){
+				$(modal).modal('hide');
+			}
+		}
+	});
 })(jQuery);
