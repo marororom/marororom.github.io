@@ -752,11 +752,21 @@
 								x.object
 									.on('click', function(e) { e.stopPropagation(); })
 									.css('cursor', 'auto');
+								
+								var w=window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
-								if (!x.width || !x.height) {
+								var h=window.innerHeight || document.documentElement.clientHeight ||document.body.clientHeight;
+								
+								if(w <= 1024){
+									x.width = w * 0.8;
+								}else{
+									x.width = w * 0.65;	
+								}								
+								x.height = h * 0.95;
+								/*if (!x.width || !x.height) {
 									x.width = "600";
 									x.height = "400";
-								}
+								}*/
 
 								break;
 
