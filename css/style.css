@@ -1609,8 +1609,10 @@ span.roll {
 }
 
 .scroll-wrapper {
-	-webkit-overflow-scrolling:touch; 
- 	overflow-y:scroll;
+	-webkit-overflow-scrolling: touch; 
+ 	overflow-y: scroll;
+	width: 100%;
+  	height: 100%;
  }
 
 .modal-container{	
